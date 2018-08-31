@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Core.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Html.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Html.Parser.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Html.Parser.Regulars.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Core.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Html.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Ivony.Html.Parser.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

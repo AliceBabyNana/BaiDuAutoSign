@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Core.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Html.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Html.Parser.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Html.Parser.Regulars.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Core.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Html.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Ivony.Html.Parser.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp2\obj\Release\ConsoleApp2.pdb
